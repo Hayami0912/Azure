@@ -1,0 +1,8 @@
+External_EnableClassicVMs
+External_ExcludeVMNames
+External_Start_ResourceGroupNames
+External_Stop_ResourceGroupNames
+External_WaitTimeForVMRetryInSeconds
+Internal_AutomationAccountName
+Internal_AzureSubscriptionId
+Internal_ResourceGroupName
